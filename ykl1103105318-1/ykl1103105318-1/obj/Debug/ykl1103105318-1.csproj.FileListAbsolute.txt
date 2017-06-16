@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\1103105318\ykl1103105318-1\ykl1103105318-1\bin\Debug\ykl1103105318-1.exe.config
+C:\Users\ASUS\Desktop\1103105318\ykl1103105318-1\ykl1103105318-1\bin\Debug\ykl1103105318-1.exe
+C:\Users\ASUS\Desktop\1103105318\ykl1103105318-1\ykl1103105318-1\bin\Debug\ykl1103105318-1.pdb
+C:\Users\ASUS\Desktop\1103105318\ykl1103105318-1\ykl1103105318-1\obj\Debug\ykl1103105318-1.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\1103105318\ykl1103105318-1\ykl1103105318-1\obj\Debug\ykl1103105318-1.exe
+C:\Users\ASUS\Desktop\1103105318\ykl1103105318-1\ykl1103105318-1\obj\Debug\ykl1103105318-1.pdb
