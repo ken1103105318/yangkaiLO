@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\yangkaiLO-master\ykl1103105318-2\yk1103105318-2\bin\Debug\App_Data\LocationDB.mdf
+C:\Users\user\Desktop\yangkaiLO-master\ykl1103105318-2\yk1103105318-2\bin\Debug\App_Data\LocationDB_log.ldf
+C:\Users\user\Desktop\yangkaiLO-master\ykl1103105318-2\yk1103105318-2\bin\Debug\yk1103105318-2.exe.config
+C:\Users\user\Desktop\yangkaiLO-master\ykl1103105318-2\yk1103105318-2\bin\Debug\yk1103105318-2.exe
+C:\Users\user\Desktop\yangkaiLO-master\ykl1103105318-2\yk1103105318-2\bin\Debug\yk1103105318-2.pdb
+C:\Users\user\Desktop\yangkaiLO-master\ykl1103105318-2\yk1103105318-2\obj\Debug\ykl1103105318-2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\yangkaiLO-master\ykl1103105318-2\yk1103105318-2\obj\Debug\yk1103105318-2.exe
+C:\Users\user\Desktop\yangkaiLO-master\ykl1103105318-2\yk1103105318-2\obj\Debug\yk1103105318-2.pdb
